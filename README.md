@@ -5,3 +5,5 @@ Rajastan
 Chennai
 Bangalore
 Kerala
+Russia
+USA
