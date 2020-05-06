@@ -5,6 +5,8 @@ Rajastan
 Chennai
 Bangalore
 Kerala
+Kochi
+Muvattupuzha
 Punjab
 Russia
 USA
